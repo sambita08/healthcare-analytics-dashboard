@@ -38,10 +38,10 @@ The report has two pages:
 ## 🖼️ Dashboard Preview
 
 ### Page 1: Healthcare Operations and Revenue Cycle Analytics
-![Operations and Revenue Dashboard](images/operations-revenue.png)
+![Operations and Revenue Dashboard](operations-revenue.png)
 
 ### Page 2: Clinical Outcomes and Anomaly Tracking
-![Clinical Outcomes and Anomaly Dashboard](images/clinical-anomalies.png)
+![Clinical Outcomes and Anomaly Dashboard](clinical-anomalies.png)
 
 ---
 
