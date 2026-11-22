@@ -95,7 +95,7 @@ The report has two pages:
 
 ## 🗂️ Dataset
 
-- **Source:** `[ADD DATASET SOURCE / LINK, e.g. Kaggle dataset name]`
+- **Source:** Kaggle health care dataset (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 - **Size:** ~55K patient records (54,860 after cleaning)
 - **Period:** 2019-2024
 - **Main fields:** Age, Medical Condition, Admission Type, Insurance Provider, Billing Amount, Date of Admission, Discharge Date, Test Results
@@ -144,7 +144,7 @@ healthcare-operations-anomaly-dashboard/
 
 ## 👤 Author
 
-**[YOUR NAME]**
-🔗 [LinkedIn](YOUR_LINKEDIN_URL) | 📧 YOUR_EMAIL
+SAMBITA DUTTA
+🔗 [LinkedIn]([(https://www.linkedin.com/in/sambita-dutta8/)) | 📧 sambitadutta8@gmail.com
 
 ⭐ If you found this project useful, please give it a star!
